@@ -115,7 +115,7 @@ app.get("/dshgfwhjdvfjbjws",(req,res)=>{
     res.redirect("https://instagram.com/tech_trail_6");
 });
 app.get("/shvdhsGEdsjfjsdsdf",(req,res)=>{
-    res.redirect("");
+    res.redirect("https://www.reddit.com/r/TechWhiz/comments/txgqmy/keep_an_eye_everywhere_clues_here_and_there/?utm_source=share&utm_medium=web2x&context=3");
 });
 // app.get("/sdfjguewjsdf",(req,res)=>{
 //     res.redirect();
