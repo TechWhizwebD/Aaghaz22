@@ -54,9 +54,7 @@ app.get("/dsvhjdsgvcdsDFsd12",(req,res)=>{
 app.get("/Hdsddwjfhwef",(req,res)=>{
     res.redirect("https://t.me/+otYAfPdcNalhOTRh");
 });
-// app.get("/shvdhsGEdsjfjsdsdf",(req,res)=>{
-//     res.redirect("https://www.reddit.com/r/TechWhiz/comments/txd6ej/keep_an_eye_everywhere_clues_here_and_there/?utm_medium=android_app&utm_source=share");
-// });
+
 app.get("/dsfhjgjhDJdskd",(req,res)=>{
     res.redirect("https://drive.google.com/file/d/1Pjhfc_W5GcD1COebTyxoJd0GXwFfkqaV/view?usp=sharing");
 });
@@ -88,8 +86,9 @@ app.get("/Hdsddwjfhwef",(req,res)=>{
     res.redirect("https://t.me/+otYAfPdcNalhOTRh");
 });
 app.get("/shvdhsGEdsjfjsdsdf",(req,res)=>{
-    res.redirect("https://www.reddit.com/r/TechWhiz/comments/txd6ej/keep_an_eye_everywhere_clues_here_and_there/?utm_medium=android_app&utm_source=share");
+    res.redirect("https://www.reddit.com/r/TechWhiz/comments/txgqmy/keep_an_eye_everywhere_clues_here_and_there/?utm_source=share&utm_medium=web2x&context=3");
 });
+
 app.get("/dsfhjgjhDJdskd",(req,res)=>{
     res.redirect("https://drive.google.com/file/d/1Pjhfc_W5GcD1COebTyxoJd0GXwFfkqaV/view?usp=sharing");
 });
@@ -114,9 +113,7 @@ app.get("/dfgbsvbgfdsj",(req,res)=>{
 app.get("/dshgfwhjdvfjbjws",(req,res)=>{
     res.redirect("https://instagram.com/tech_trail_6");
 });
-app.get("/shvdhsGEdsjfjsdsdf",(req,res)=>{
-    res.redirect("https://www.reddit.com/r/TechWhiz/comments/txgqmy/keep_an_eye_everywhere_clues_here_and_there/?utm_source=share&utm_medium=web2x&context=3");
-});
+
 // app.get("/sdfjguewjsdf",(req,res)=>{
 //     res.redirect();
 // });
