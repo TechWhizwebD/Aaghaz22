@@ -104,7 +104,24 @@ app.get("/dshgfwhjdvfjbjws",(req,res)=>{
     res.redirect("https://instagram.com/tech_trail_6");
 });
 
-
+app.get("/cghfudsygfyasj",(req,res)=>{
+    res.redirect("https://drive.google.com/file/d/1ORnYImgFWwobcqr0h-c5-WQ1CkGmF2wY/view?usp=sharing");
+});
+app.get("/asjgfjhgfiuemdn",(req,res)=>{
+    res.redirect("https://drive.google.com/file/d/1PJbMkizYDPAgcLhoVTryMv_WTysUP6PF/view?usp=sharing");
+});
+app.get("/sajgdsjdbdsfnd",(req,res)=>{
+    res.redirect("https://drive.google.com/file/d/1PDJhmOMSeXA1oMTPDJzhBPrmjNZAjitZ/view?usp=sharing");
+});
+app.get("/dshgfwhjdvfjbjws",(req,res)=>{
+    res.redirect("https://drive.google.com/file/d/1PP4S60dyGB1u9wYsF-P86IBao7g-xrDt/view?usp=sharing");
+});
+app.get("/shvfjdsvfjew",(req,res)=>{
+    res.redirect("https://drive.google.com/file/d/1QBwrAP9x0Rnt2VruXHB42WP-0QdgFhPn/view?usp=sharing");
+});
+app.get("/sdfjguewjsdf",(req,res)=>{
+    res.redirect("https://drive.google.com/file/d/1QUepNxptOMeXE1dL-Wm6TvEunyvCq4uu/view?usp=sharing");
+});
 app.listen(3000, function() {
     console.log('Server is running on port 3000.');
 });
