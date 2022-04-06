@@ -43,7 +43,7 @@ app.get("/kawbdfwkjfbsdkkncljlnf",(req,res)=>{
     res.redirect("https://t.me/Techwhiz_bot");
 });
 app.get("/kbwbdfwkjfbsdkkncljlnf",(req,res)=>{
-    res.redirect("https://www.linkedin.com/posts/tech-trail-323969236_techtrail-techwhiz-hyperion-activity-6917198364149211137-MzUf?utm_source=linkedin_share&utm_medium=android_app");
+    res.redirect("https://www.linkedin.com/posts/tech-trail-323969236_techtrail-techwhiz-hyperion-activity-6917309203573309440-kqjo?utm_source=linkedin_share&utm_medium=member_desktop_web");
 });
 app.get("/sdfvhdsjcvsjd",(req,res)=>{
     res.redirect("https://instagram.com/xojig96188");
@@ -69,9 +69,9 @@ app.get("/DNBSDsdfasddsfjkbkds",(req,res)=>{
 app.get("/dfgbsvbgfdsj",(req,res)=>{
     res.redirect("https://drive.google.com/file/d/1peQ70EVxjDgzxe4gVoRVafc_E0xqMRZP/view?usp=sharing");
 });
-app.get("/kfwbdfwkjfbsdkkncljlnf",(req,res)=>{
-    res.redirect("https://instagram.com/tech_trail_6");
-});
+// app.get("/kfwbdfwkjfbsdkkncljlnf",(req,res)=>{
+//     res.redirect("https://instagram.com/tech_trail_6");
+// });
 app.get("/kawbdfwkjfbsdkkncljlnf",(req,res)=>{
     res.redirect("https://t.me/Techwhiz_bot");
 });
@@ -111,12 +111,12 @@ app.get("/dfgbsvbgfdsj",(req,res)=>{
 // app.get("/sajgdsjdbdsfnd",(req,res)=>{
 //     res.redirect();
 // });
-// app.get("/dshgfwhjdvfjbjws",(req,res)=>{
-//     res.redirect();
-// });
-// app.get("/shvfjdsvfjew",(req,res)=>{
-//     res.redirect();
-// });
+app.get("/dshgfwhjdvfjbjws",(req,res)=>{
+    res.redirect("https://instagram.com/tech_trail_6");
+});
+app.get("/shvdhsGEdsjfjsdsdf",(req,res)=>{
+    res.redirect("");
+});
 // app.get("/sdfjguewjsdf",(req,res)=>{
 //     res.redirect();
 // });
